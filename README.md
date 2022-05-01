@@ -25,4 +25,6 @@ Exercicios:
     ****<br>
     *****<br>
     </p>
-
+9) Crie um programa em C que leia do teclado números inteiros até que o usuário digite a opção -1. Ao final, calcule e imprima a média dos números lidos.
+10) Crie um programa em C que leia um valor inteiro N do teclado e imprima a soma dos N primeiros números naturais. Obs: utilizando a estrutura While.
+11) Utilizando a estrutura While, faça um programa que gere e imprima os 20 primeiros termos da série de Fibonacci. A série é: 1,1,2,3,5,8 ...
