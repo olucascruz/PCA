@@ -28,3 +28,8 @@ Exercicios:
 9) Crie um programa em C que leia do teclado números inteiros até que o usuário digite a opção -1. Ao final, calcule e imprima a média dos números lidos.
 10) Crie um programa em C que leia um valor inteiro N do teclado e imprima a soma dos N primeiros números naturais. Obs: utilizando a estrutura While.
 11) Utilizando a estrutura While, faça um programa que gere e imprima os 20 primeiros termos da série de Fibonacci. A série é: 1,1,2,3,5,8 ...
+
+### Vetores
+
+12) Faça um programa em C que crie um vetor de inteiros de 10 posições. Em seguida, preencha o vetor com 10 idades lidas do teclado.  Ao final, informe a menor e maior idade e os índices do vetor em que ambas estão armazenadas.
+13) Faça um programa em C que crie um vetor de inteiros de 10 posições com dados lidos do teclado. Ao final, imprima cada posição do vetor com valor alterado pela subtração do conteúdo do posição no vetor menos o índice em que está armazenado.
