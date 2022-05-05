@@ -33,3 +33,8 @@ Exercicios:
 
 12) Faça um programa em C que crie um vetor de inteiros de 10 posições. Em seguida, preencha o vetor com 10 idades lidas do teclado.  Ao final, informe a menor e maior idade e os índices do vetor em que ambas estão armazenadas.
 13) Faça um programa em C que crie um vetor de inteiros de 10 posições com dados lidos do teclado. Ao final, imprima cada posição do vetor com valor alterado pela subtração do conteúdo do posição no vetor menos o índice em que está armazenado.
+14) Faça um programa que simule um lançamento de dados. Lance o dado 100 vezes aleatoriamente e armazene os resultados em um vetor . Depois, mostre quantas vezes cada valor (1 a 6) foi conseguido.
+15) Faça um programa que leia duas listas de 10 elementos. Crie uma outra lista que seja a intersecção entre as 2 listas anteriores, ou seja, que contém apenas os números que estão em ambos as listas.
+16) Faça um programa que leia dois números a e b (positivos entre 1000 e 10000) e: 
+- Crie um dois vetores onde cada posição é um algarismo dos números a e b. 
+- Crie um terceiro vetor que é o resultado da soma de cada posição dos vetores criados para a e b
