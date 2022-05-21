@@ -38,3 +38,13 @@ Exercicios:
 16) Faça um programa que leia dois números a e b (positivos entre 1000 e 10000) e: 
 - Crie um dois vetores onde cada posição é um algarismo dos números a e b. 
 - Crie um terceiro vetor que é o resultado da soma de cada posição dos vetores criados para a e b
+
+### Matrizes
+
+17) Faça um programa em C que leia uma matriz 2x2 de valores e ao final imprima o maior e o menor elemento da diagonal principal da matriz.
+18) Faça um programa em C que encontre a matriz transposta de uma matriz 3 x 3 lida do teclado. Matriz transposta é a matriz onde as linhas de uma matriz passam a ser colunas na matriz resultante.
+19) Faça um programa em C que calcule a soma da diagonal principal e da diagonal secundária de uma matriz 3 x 3 lida do teclado.
+20) Leia uma matriz 3 x 3, conte e escreva quantos valores maiores que 10 ela possui
+21) Faça um programa que preenche uma matriz 2x2 com o produto do valor da linha e da coluna
+de cada elemento. Em seguida, imprima na tela a matriz.
+22) Leia duas matrizes 3 x 3 e escreva uma terceira com os maiores valores de cada posicão das matrizes lidas.
