@@ -48,3 +48,8 @@ Exercicios:
 21) Faça um programa que preenche uma matriz 2x2 com o produto do valor da linha e da coluna
 de cada elemento. Em seguida, imprima na tela a matriz.
 22) Leia duas matrizes 3 x 3 e escreva uma terceira com os maiores valores de cada posicão das matrizes lidas.
+
+### Ponteiros
+
+23) Crie um programa em C que declare uma variável do tipo float e um ponteiro do tipo float. Faça o ponteiro criado apontar para a variável declarada e altere o valor da variável utilizando o ponteiro.
+
