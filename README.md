@@ -52,4 +52,4 @@ de cada elemento. Em seguida, imprima na tela a matriz.
 ### Ponteiros
 
 23) Crie um programa em C que declare uma variável do tipo float e um ponteiro do tipo float. Faça o ponteiro criado apontar para a variável declarada e altere o valor da variável utilizando o ponteiro.
-
+24) Escreva um programa em C que declare um inteiro e um real, e ponteiros para inteiro e real. Associe as variáveis aos ponteiros (use &). Modifique os valores de cada variável usando os ponteiros. Imprima os valores das variáveis antes e após a modificação.
