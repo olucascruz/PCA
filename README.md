@@ -54,3 +54,7 @@ de cada elemento. Em seguida, imprima na tela a matriz.
 23) Crie um programa em C que declare uma variável do tipo float e um ponteiro do tipo float. Faça o ponteiro criado apontar para a variável declarada e altere o valor da variável utilizando o ponteiro.
 24) Escreva um programa em C que declare um inteiro e um real, e ponteiros para inteiro e real. Associe as variáveis aos ponteiros (use &). Modifique os valores de cada variável usando os ponteiros. Imprima os valores das variáveis antes e após a modificação.
 25) Escreva um programa em C que contenha duas variaveis inteiras. Compare seus endereços e exiba o maior endereço.
+
+### Malloc
+
+26. Faça um programa em C que leia um valor n inteiro do teclado e depois, utilizando a função malloc crie um vetor de floats de n posições. Preencha o vetor com valores lidos do teclado e ao final imprima o tamanho do vetor em bytes, o conteúdo do vetor e desaloque a memória utilizada.
