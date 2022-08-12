@@ -58,3 +58,9 @@ de cada elemento. Em seguida, imprima na tela a matriz.
 ### Alocação dinâmica 
 
 26. Faça um programa em C que leia um valor n inteiro do teclado e depois, utilizando a função malloc crie um vetor de floats de n posições. Preencha o vetor com valores lidos do teclado e ao final imprima o tamanho do vetor em bytes, o conteúdo do vetor e desaloque a memória utilizada.
+
+27. Faça um programa em C que encontre o maior e o
+menor inteiro dentro de um vetor de 10
+inteiros cujos valores são lidos do teclado, calcule a soma e imprime a soma.
+Obs: usar apenas as váriaveis a seguir:
+int v[10], i, *maior, *menor;
